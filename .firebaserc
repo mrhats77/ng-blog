@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "blog-d50e1": {
+      "hosting": {
+        "ng-blog": [
+          "blog-d50e1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "blog-d50e1"
+  }
+}
